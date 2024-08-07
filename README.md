@@ -1,9 +1,9 @@
 ###
 <div align="center">
-  <h1 style="text-align: center;">Meus principais conhecimentos/My main knowledge</h1>
+  <h1 style="text-align: center;">Conhecimentos - Knowledge</h1>
  
 </div>
-<div><br> <br><br><br>
+<div><br> <br>
   <img align="center" alt="Minetto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Minetto-Type" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
    <img align="center" alt="Minetto-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
